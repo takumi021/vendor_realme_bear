@@ -441,15 +441,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/bear/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/realme/bear/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
     vendor/realme/bear/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b00 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b01 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b02 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b03 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b04 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b05 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b06 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.b07 \
-    vendor/realme/bear/proprietary/vendor/firmware/f_1511.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/f_1511.mdt \
     vendor/realme/bear/proprietary/vendor/firmware/a225_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a225_pfp.fw \
     vendor/realme/bear/proprietary/vendor/firmware/a225_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a225_pm4.fw \
     vendor/realme/bear/proprietary/vendor/firmware/a225p5_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a225p5_pm4.fw \
